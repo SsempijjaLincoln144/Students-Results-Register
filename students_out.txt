@@ -1,0 +1,10 @@
+107,Frank Moore,CS101,45
+105,Charlie Davis,CS102,60
+109,Henry Anderson,CS103,72.5
+103,Alice Johnson,CS102,78.5
+101,John Doe,CS101,85.5
+104,Bob Brown,CS101,85.5
+110,Ivy Thomas,CS101,85.5
+108,Grace Taylor,CS102,88
+102,Jane Smith,CS101,92
+106,Eva Wilson,CS103,99.5
